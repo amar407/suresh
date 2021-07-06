@@ -639,3 +639,6 @@ ls -al
 git status
 git add .
 git status
+ll
+ll
+cd /var/lib/jenkins/worlspace
